@@ -21,7 +21,7 @@ Covers statistical testing, power analysis, experiment logging, and result visua
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ab-testing-framework.git
+git clone https://github.com/krishnaagarwal80777-droid/ab-testing-framework.git
 cd ab-testing-framework
 pip install -e .
 ```
